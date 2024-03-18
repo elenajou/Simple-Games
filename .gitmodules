@@ -1,3 +1,6 @@
 [submodule "tic-tac-toe"]
 	path = tic-tac-toe
 	url = https://github.com/elenajou/tic-tac-toe.git
+[submodule "typing-turtle"]
+	path = typing-turtle
+	url = https://github.com/elenajou/typing-turtle.git
